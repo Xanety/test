@@ -1,0 +1,26 @@
+[ {
+  "name" : "Калининградская ТЭЦ-2 Г-10",
+  "params" : {
+    "TipR" : 2,
+    "Urf" : 0.85,
+    "If_z" : 1825,
+    "Uf_max" : 2,
+    "Ifm" : 2,
+    "Ugnom" : 15750,
+    "Ufnom" : 245,
+    "Ifnom" : 1615,
+    "Pgnom" : 150000000,
+    "Qgnom" : 92960000,
+    "size_table_omv" : [ 1, 5 ],
+    "Uomv" : [ 1 ],
+    "Pomv" : [ 0,0.309,0.618,0.85,1 ],
+    "Qomv" : [ -0.309,-0.293,-0.232,-0.154,-0.005 ],
+    "kritARV1_on" : 1,
+    "kritARV2_on" : 1,
+    "kritARV3_on" : 1,
+    "kritARV4_on" : 1,
+    "kritARV5_on" : 1,
+    "kritARV6_on" : 1,
+    "kritARV7_on" : 0
+  }
+} ]
