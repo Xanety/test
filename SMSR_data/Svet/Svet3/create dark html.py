@@ -1,0 +1,1 @@
+jupyter nbconvert --execute --to html C:\Users\das\Documents\Python\GitHub\test\SMSR_data\Svet\smsr_osc_compare_Svet1.ipynb --HTMLExporter.theme=dark --no-input
